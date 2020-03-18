@@ -33,7 +33,7 @@ elif random_number == 2:
     elif random_number == 2:
         print('Ask again later.')
     elif random_number == 3:
-        print('Better not tell you know.')
+        print('Better not tell you now.')
     elif random_number == 4:
         print('Cannot predict now.')
     elif random_number == 5:

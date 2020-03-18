@@ -1,0 +1,1 @@
+# This program counts the number clicks a user has to make to write a character in a feature phone
